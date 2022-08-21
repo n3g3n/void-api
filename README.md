@@ -14,3 +14,18 @@ Sections:
 
 
 #### Written on pure JavaScript (Node.js)
+For test use `npm run watch`
+```
+➜  void-api git:(main) npm run watch
+> void-api@1.0.0 watch /home/igavelyuk/1.Proj/void-api
+> json-server --watch db.json
+  \{^_^}/ hi!
+  Loading db.json
+  Done
+  Resources
+  http://localhost:3000/test
+  Home
+  http://localhost:3000
+  Type s + enter at any time to create a snapshot of the database
+  Watching...
+```
