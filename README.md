@@ -4,7 +4,6 @@
 #### Hosted
 https://uastudio.site/void-api
 Sections:
-- void-api
-  - animals
-  - brands
-  
+- /void-api/
+  - /animals/
+  - /brands/
