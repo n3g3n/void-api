@@ -1,0 +1,26 @@
+{
+  "name": "void-api",
+  "version": "1.0.0",
+  "description": "The main goal of this project is to make project deployment easy with well thought out templates. The project is not intended to be used as a database. It is intended to be able to simply test the functionality of your application and belongs to the toolkit class.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/igavelyuk/void-api.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/igavelyuk/void-api/issues"
+  },
+  "homepage": "https://github.com/igavelyuk/void-api#readme",
+  "dependencies": {
+    "json-server": "^0.17.0"
+  },
+  "scripts": {
+    "watch":"json-server --watch db.json"
+  }
+}
