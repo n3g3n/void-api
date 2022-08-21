@@ -6,3 +6,5 @@ https://uastudio.site/void-api
 Sections:
 - void-api
   - animals
+  - brands
+  
