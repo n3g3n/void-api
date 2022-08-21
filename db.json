@@ -1,0 +1,10 @@
+{
+  "test":[
+    {
+      "record1": "Test record one"
+    },
+    {
+      "record2": "Test record two"
+    }
+  ]
+}
