@@ -6,5 +6,16 @@
     {
       "record2": "Test record two"
     }
-  ]
+  ],
+  "api":{
+    "shops":{
+      "1":{
+        "import":{
+          [
+
+          ]       
+        }
+      }
+    }
+  }
 }
