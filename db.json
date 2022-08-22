@@ -7,8 +7,7 @@
       "record2": "Test record two"
     }
   ],
-  "api":{
-    "shops":{
-      }
-    }
+  "apiShops":[
+
+  ]
 }
