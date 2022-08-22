@@ -1,0 +1,4 @@
+{
+    "/api/shops/1/packages/import": "/apiShops",
+    "/api/shops/1/packages/import:id": "/apiShops/:id"
+}
