@@ -21,7 +21,7 @@
     "json-server": "^0.17.0"
   },
   "scripts": {
-    "watch":"json-server --watch db.json"
+    "watch":"json-server --watch db.json",
     "watch8000":"json-server -p 8000 db.json"
   }
 }
