@@ -22,6 +22,6 @@
   },
   "scripts": {
     "watch":"json-server --watch db.json",
-    "watch8000":"json-server -p 8000 db.json"
+    "watch8000":"json-server db.json --routes routes.json --no-cors=false -p 8000"
   }
 }
