@@ -10,10 +10,12 @@
   "api":{
     "shops":{
       "1":{
-        "import":{
-          [
+        "packages":{
+          "import":{
+            [
 
-          ]       
+            ]
+          }
         }
       }
     }
