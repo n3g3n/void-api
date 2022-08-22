@@ -14,7 +14,10 @@ Sections:
 
 
 #### Written on pure JavaScript (Node.js)
-For test use `npm run watch`
+For main functionality use `npm run watch`
+
+For test use `npm run watch8000` it uses `port 8000`
+
 ```
 > void-api@1.0.0 watch /home/igavelyuk/1.Proj/void-api
 > json-server --watch db.json
