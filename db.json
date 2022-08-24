@@ -1,10 +1,19 @@
 {
-  "test": [
+  "animals": [
     {
-      "record1": "Test record one"
+      "cat": "Meow"
     },
     {
-      "record2": "Test record two"
+      "dog": "Woof"
+    },
+    {
+      "fox": "What Does the Fox Say?"
+    },
+    {
+      "bird": "Tweet"
+    },
+    {
+      "mouse": "?"
     }
   ],
   "apiShops": [
