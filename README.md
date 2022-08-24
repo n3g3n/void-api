@@ -12,6 +12,7 @@ Sections:
   - /food/
   - /snacks/
 
+Database with this sign "?" - required your help
 
 #### Written on pure JavaScript (Node.js)
 For main functionality use `npm run watch`
