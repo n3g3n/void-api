@@ -12,6 +12,7 @@ Sections:
   - /food/
   - /snacks/
 
+Database with this sign "?" - required your help
 
 #### Written on pure JavaScript (Node.js)
 For main functionality use `npm run watch`
@@ -33,4 +34,4 @@ For test use please use `npm run watch8000` what uses custom routes in `routes.j
   Watching...
 ```
 #### Stucture of database json files
-Json file can contain following: `objects, arrays, strings`
+Json file can contain following: `objects, arrays, string, numbers, boolean, null`
