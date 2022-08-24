@@ -32,3 +32,4 @@ For test use please use `npm run watch8000` what uses custom routes in `routes.j
   Type s + enter at any time to create a snapshot of the database
   Watching...
 ```
+#### Stucture of database json files
