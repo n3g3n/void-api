@@ -11,6 +11,7 @@ Sections:
   - /brands/
   - /food/
   - /snacks/
+  - /anamorphic/
 
 Database with this sign "?" - required your help
 

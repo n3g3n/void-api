@@ -24,59 +24,59 @@
   ],
   "brands":[
     "anamoprhic":[
-      1:{
+      {
         "name": "Scope",
         "country": "England"
       },
-      2:{
+      {
         "name": "AgaScope",
         "country": "Argentina"
       },
-      3:{
+      {
         "name": "Arriscope",
         "country":"Germany"
       },
-      4:{
+      {
         "name": "ArriVision",
         "country":"Germany"
       },
-      5:{
+      {
         "name": "Autentiscope",
         "country": "Spain"
       },
-      6:{
+      {
         "name": "Camerascope",
         "country": "England"
       },
-      7:{
+      {
         "name": "Cathayscope",
         "country": "Hong Kong"
       },
-      8:{
+      {
         "name": "Cinepanoramic",
         "country": "France"
       },
-      9:{
+      {
         "name": "Cinescope",
         "country": "Italy"
       },
-      10:{
+      {
         "name": "Cineovision",
         "country": "Japan"
       },
-      11:{
+      {
         "name": "Clairmont-Scope",
         "country": "USA"
       },
-      12:{
+      {
         "name": "Colorscope",
         "country": "Italy"
       },
-      13:{
+      {
         "name": "Daieiscope",
         "country": "Japan"
       },
-      14:{
+      {
         "name": "Dyaliscope",
         "country": "France"
       }
