@@ -24,19 +24,19 @@
   ],
   "brands":[
     "anamoprhic":[
-      1:{
+      {
         "name": "Scope",
         "country": "England"
       },
-      2:{
+      {
         "name": "AgaScope",
         "country": "Argentina"
       },
-      3:{
+      {
         "name": "Arriscope",
         "country":"Germany"
       },
-      4:{
+      {
         "name": "ArriVision",
         "country":"Germany"
       },
