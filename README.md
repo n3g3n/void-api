@@ -5,7 +5,16 @@ The main goal of this project is to make project deployment easy with well thoug
 #### Hosted
 https://uastudio.site/void-api/ `sub_item` (see list down)
 
-Sections:
+Team we need add separate jsons with different port
+result https://uastudio.site8000/ -> /test/
+result https://uastudio.site8001/void-api/ -> /animals/
+folder /dbs/animals/db.json
+
+result https://uastudio.site8002/void-api/ -> /brands/
+folder /dbs/brands/db.json
+
+
+Sections: 
 - /void-api/
   - /animals/
   - /brands/
