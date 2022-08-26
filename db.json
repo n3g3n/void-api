@@ -80,12 +80,19 @@
         "name": "Dyaliscope",
         "country": "France"
       }
+    ]
   ],
   "login":[
-
+    {
+      "name": "user",
+      "country": "password"
+    }
   ],
   "register":[
-
+    {
+      "name": "user",
+      "country": "password"
+    }
   ],
   "apiShops": [
     [
