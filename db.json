@@ -19,10 +19,30 @@
       "seel": "?"
     },
     {
-      "elephant" : "Tooth?"
+      "elephant": "Tooth?"
     }
   ],
+  "login":[
+
+  ],
   "apiShops": [
+    [
+      {
+        "address": "testAddress",
+        "city": "testCity",
+        "company_name": "testCompany",
+        "country": "38",
+        "email": "test@test.test",
+        "house_number": "24a house",
+        "name": "Tesico recipient",
+        "order_number": "654321",
+        "postal_code": "44556",
+        "service_code": "'0987'",
+        "phone_number": "380666540976"
+      }
+    ]
+  ],
+  "apiShopsResponce": [
     [
       {
         "address": "testAddress",
