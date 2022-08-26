@@ -19,10 +19,68 @@
       "seel": "?"
     },
     {
-      "elephant" : "Tooth?"
+      "elephant": "Tooth?"
     }
   ],
+  "brands":[
+    "anamoprhic":[
+      1:{
+        "name": "Scope",
+        "country": "England"
+      },
+      2:{
+        "name": "AgaScope",
+        "country": "Argentina"
+      },
+      3:{
+        "name": "Arriscope",
+        "country":"Germany"
+      },
+      4:{
+        "name": "ArriVision",
+        "country":"Germany"
+      },
+      5:{
+        "name": "Autentiscope",
+        "country": "Spain"
+      },
+      6:{
+        "name": "Camerascope",
+        "country": "England"
+      },
+      7:{
+        "name": "Cathayscope",
+        "country": "Hong Kong"
+      },
+      8:{
+        "name": "Cinepanoramic",
+        "country": "France"
+      }
+  ],
+  "login":[
+
+  ],
+  "register":[
+
+  ],
   "apiShops": [
+    [
+      {
+        "address": "testAddress",
+        "city": "testCity",
+        "company_name": "testCompany",
+        "country": "38",
+        "email": "test@test.test",
+        "house_number": "24a house",
+        "name": "Tesico recipient",
+        "order_number": "654321",
+        "postal_code": "44556",
+        "service_code": "'0987'",
+        "phone_number": "380666540976"
+      }
+    ]
+  ],
+  "apiShopsResponce": [
     [
       {
         "address": "testAddress",
