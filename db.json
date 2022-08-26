@@ -82,7 +82,10 @@
       }
   ],
   "login":[
-
+    {
+      "name": "user",
+      "country": "password"
+    }
   ],
   "register":[
 
