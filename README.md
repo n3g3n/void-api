@@ -16,13 +16,14 @@ result https://uastudio.site8002/void-api/ -> /brands/
 folder /dbs/brands/db.json
 
 
-Sections: 
+Sections:
 - /void-api/
   - /animals/
   - /brands/
   - /food/
   - /snacks/
   - /anamorphic/
+  - /something/
 
 Database with this sign "?" - required your help
 
